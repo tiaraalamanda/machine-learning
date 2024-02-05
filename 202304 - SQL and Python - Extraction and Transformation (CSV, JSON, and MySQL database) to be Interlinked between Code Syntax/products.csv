@@ -1,0 +1,12 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,1200
+2,Headphones,Electronics,150
+3,T-shirt,Clothing,20
+4,Jeans,Clothing,45
+5,Smartphone,Electronics,800
+6,Sneakers,Clothing,60
+7,Keyboard,Electronics,50
+8,Mouse,Electronics,30
+9,Backpack,Accessories,40
+10,Sunglasses,Accessories,80
+11,Watch,Accessories,200

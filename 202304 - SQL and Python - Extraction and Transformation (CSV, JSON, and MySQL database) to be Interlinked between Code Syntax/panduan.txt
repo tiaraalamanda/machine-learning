@@ -1,0 +1,23 @@
+# Technical Challenge
+1. Modifikasi kodingannya sesuai dengan konfigurasi database yang dimiliki
+2. Pastikan script week6_etl.py dapat berjalan
+
+# Creativity Challenge (nilai plus)
+1. Tambahkan kolom pada data json atau csv
+2. Tambahkan metode extraksi
+3. Tambahkan metode transformasi
+4. Tambahkan metode load
+
+# Tugas kelompok
+# Anggota 4 orang
+# Tentukan ketua kelompok
+# Tentukan nama kelompok
+
+# Tugas dikumpulkan di
+# https://drive.google.com/drive/folders/1dzhUP3RsfA0dWxA-kW1BYBelELNt6nuF?usp=sharing
+# Buat direktori: [Nama Kelompok]_Tugas_1
+# Contoh: Python_Tugas_1
+
+# 1. List nama anggota kelompok (txt)
+# 2. Buat laporan pengerjaan berupa pdf berisikan screenshoot dan keterangan yang dilakukan
+# 3. Lampirkan bukti kodingan yang sudah dibuat/dimodifikasi
